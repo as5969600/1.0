@@ -1,0 +1,4 @@
+In this project, use the java concepts, applet, Swing files.
+it"s a student panel project whose use for store the student detail and company detail in memory.
+for compilation the code write the query "javac Admin.java".
+and for run the program write the query "java Admin" on commond promte.
